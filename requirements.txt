@@ -2,6 +2,8 @@ numpy
 matplotlib
 pandas
 seaborn
+scikit-learn
 RISE
 jupyter
+tqdm
 notebook==6
