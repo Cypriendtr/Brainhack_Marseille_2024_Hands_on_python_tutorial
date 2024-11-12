@@ -1,5 +1,7 @@
 # MAC Log file
 .DS_Store
 
+# python user
+__pycache__
 # virtual environnement
 .venv
