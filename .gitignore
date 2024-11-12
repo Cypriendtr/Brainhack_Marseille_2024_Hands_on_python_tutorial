@@ -1,2 +1,5 @@
 # MAC Log file
 .DS_Store
+
+# virtual environnement
+.venv

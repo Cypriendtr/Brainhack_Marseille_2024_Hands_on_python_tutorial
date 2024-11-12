@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pandas
+seaborn
+RISE
+jupyter
+notebook==6
