@@ -7,3 +7,4 @@ RISE
 jupyter
 tqdm
 notebook==6
+mlcroissant
