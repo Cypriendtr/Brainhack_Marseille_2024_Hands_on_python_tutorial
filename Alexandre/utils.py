@@ -17,3 +17,4 @@ def func_timer(duration:float):
     dur_sec = duration * 60
     for i in tqdm.trange(dur_sec, ncols=90, desc="Exercise timer", ascii="_|"):
         time.sleep(1)
+
