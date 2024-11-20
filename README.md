@@ -1,5 +1,6 @@
 # BrainHack Marseille 2024 - Hands on Python tutorial: 
-<img title="BrainHack 2024 logo" src="/fig/brainhack.png">
+
+![BrainHack 2024 logo](./fig/brainhack.png)
 
 This repository contains all the support used for the Hands on python tutorial at the BrainHack 2024 edition.
 Here you will find all the slides, the tutorial notebooks and the requierements.txt file with all the Python libraries.
@@ -8,7 +9,7 @@ Here you will find all the slides, the tutorial notebooks and the requierements.
 For this 2 hours BrainHack session we have planned a very ambitious programme.
 
 ### Beginning:
-We will start by providing you a complete environment to code in Python, either on your own machine with [Anaconda](https://www.anaconda.com/download/success) or with [Google Collab](https://colab.research.google.com) servers. As the download of your own Python environment may take a while, we will in parallel do a introduction to present the role and interests of Python. Coupled with a small poll as an icebreaker to know a bit better eachother.
+We will start by providing you a complete environment to code in Python, either on your own machine with [Anaconda](https://www.anaconda.com/download/success) or with [Google Collab](https://colab.research.google.com) servers  using files from this [Google Drive folder](https://drive.google.com/drive/folders/1h1xRtSA7tzuJkmp5fEmwCrM-eCOecMRm?usp=sharing). As the download of your own Python environment may take a while, we will in parallel do a introduction to present the role and interests of Python. Coupled with a small poll as an icebreaker to know a bit better eachother.
 
 ### The tutorial:
 In this tutorial we will delve (as deep as we can in two hours) in Python. We provide and show you how and where to write code. 
